@@ -1,0 +1,19 @@
+{
+  "name": "henry_homework_day1",
+  "version": "1.0.0",
+  "description": "Cloning Netflix",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "author": "Henry Kim <seedtree.henry@gmail.com> (https://seedtree.com.au/)",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "4.16.1",
+    "webpack-cli": "3.1.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "3.1.4"
+  }
+}
